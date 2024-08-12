@@ -1,6 +1,8 @@
 تشغيل الاداة : 
 git clone https://github.com/los2t1/Em-Nu.git
+
 cd Em-Nu
+
 sudo python3 Em-Nu
 قناتي التلجرام : https://t.me/cy1br
 
